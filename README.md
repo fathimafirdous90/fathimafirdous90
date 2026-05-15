@@ -1,13 +1,15 @@
-# 🌤️ Personal Weather & Wardrobe Assistant
+# Hi, I'm Firdose Fathima M F 👋
 
-A smart Python application that fetches real-time weather data and suggests the perfect outfit.
+### M.Sc. Computer Science | Quality Assurance & Python Automation Specialist
 
-## 🚀 Features
-* **Live Weather:** Uses OpenWeatherMap API for real-time accuracy.
-* **Wardrobe Suggestions:** Intelligent logic to recommend clothing based on temperature.
-* **Full Stack:** Includes a Python backend and an HTML/CSS frontend.
+Experienced technical professional with **11 years of institutional project experience** (CSIR-CFTRI). I specialize in bridge-building between technical quality and business goals.
 
-## 🛠️ Tech Stack
-* **Language:** Python 3
-* **Libraries:** Requests
-* **Frontend:** HTML5, CSS3
+- 🛠️ **Technical Stack:** Python, Flask, React, MongoDB, Selenium.
+- 🔍 **Expertise:** E-commerce Performance Audits, Automated Testing, and Data Standardization.
+- 🎓 **Education:** M.Sc. in Computer Science.
+- 📍 **Location:** Mysuru / Gargeshwari, Karnataka.
+
+---
+### Featured Projects:
+- **Weather & Wardrobe Assistant:** A logic-driven Python application using OpenWeatherMap API to suggest attire based on real-time climate data.
+- **AI Recruitment Portal:** A MERN-stack CRUD application for managing candidate data.
